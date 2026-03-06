@@ -1,6 +1,10 @@
 name: Logseq Publish
 on: [push]
 
+concurrency:
+  group: logseq-publish
+  cancel-in-progress: true
+
 permissions:
   contents: write
 jobs:
