@@ -420,4 +420,4 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-flashcards? false
- :feature/enable-whiteboards? true}
+ :feature/enable-whiteboards? false}
