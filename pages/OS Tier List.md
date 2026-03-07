@@ -1,0 +1,31 @@
+type:: Quick Note
+
+- This tier list is based on my own opinions and needs so take it with a grain of salt.
+- **Main Requirements:**
+	- Fast
+	- Stable
+	- Can play most of my games
+	- Let's me develop without much of a hassle
+- # List
+	- # 1. Linux Mint
+		- My main OS at the moment.
+		- Mint provides very smooth experience to and fulfills my needs. I can all of my games, write Code and take notes with minimal issues.
+	- ## 2. Arch Linux
+		- Runs on my Home Server.
+		- Arch is great and fast OS but it's in some cases quite unstable. Main reason why it runs on my Home Server is that my server is quite old and I need every bit of performance which the lightweight Arch gives me.
+	- ## MAX_INT. Windows 11
+		- Probably the worst OS ever.
+		- Do to some missing drivers the only OS that can correctly run on my HP Envy 14 x360 (btw I not recommended this notebook)
+		- Horrible pereformance
+			- Constantly uses almost all of my 16GB RAM
+		- HP Bloatware
+			- Stuff that just eats performance but is also mandatory to be installed as without it you can't use half of the Notebook (Indicator Lights, Fan Control, etc..) the bloatware
+		- Windows Search
+			- I don't know why but searching `HP` does not find app named `HP` but finds app named `HP Assistant`
+		- WSL
+			- I use WSL constantly for dummy servers, databases and PHP servers. Works great for some reason.
+		- PowerToys
+			- The only thing that saves this system.
+			- I use it to emulate Linux like keyboard shortcuts (Like `AltGr` + `H` for backslash)
+			- I also used it to unbind (disable) the Copilot Key.
+-

@@ -300,7 +300,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["API Docs"]
+ :favorites ["quick notes" "tags" "status" "api docs"]
 
  ;; Set flashcards interval.
  ;; Expected value:

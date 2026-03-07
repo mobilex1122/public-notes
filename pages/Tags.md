@@ -1,4 +1,6 @@
 icon:: ⚙️
 
-- {{query (all-page-tags)}}
-  query-properties:: [:page]
+- query-properties:: [:page]
+  #+BEGIN_QUERY
+  {:title "Tag List" :query (all-page-tags)}
+  #+END_QUERY
