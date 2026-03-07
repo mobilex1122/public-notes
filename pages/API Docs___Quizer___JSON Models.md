@@ -1,6 +1,6 @@
-- JSON Models for [Quizer]([[API Docs/Quizer]])
-- # Quiz JSON
-  id:: 69abf1e8-a7e1-421d-99a4-c102596c1d03
+Quiz JSON
+id:: 69abf1e8-a7e1-421d-99a4-c102596c1d03
+heading:: true
 	- ```json
 	  {  
 	  	"name": "Quiz Name",  
