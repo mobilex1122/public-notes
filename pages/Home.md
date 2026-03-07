@@ -1,3 +1,5 @@
+icon:: 🏠️
+
 - Welcome to my small notebook. :)
 - [[Tags]] | [[Status]]
 - ### Categories
