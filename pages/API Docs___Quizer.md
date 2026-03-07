@@ -2,6 +2,7 @@
   This is still Work in Progress
   #+END_NOTE
 - **Sub pages:**
+  collapsed:: true
 	- [JSON Models]([[API Docs/Quizer/JSON Models]])
 - **INFO**
   collapsed:: true
@@ -16,8 +17,7 @@
 	- `:uuid`: `<UUID>` - Used for user IDs
 	-
 - # Endpoints
-	- ## Auth API `/auth/`  
-	  collapsed:: true
+	- ## Auth API `/auth/`
 		- ### POST `/login`
 			- Login DUH
 		- ### POST `/register`

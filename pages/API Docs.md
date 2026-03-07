@@ -1,1 +1,1 @@
-- [[API Docs/Quizer]]
+- [Quizer]([[API Docs/Quizer]])
