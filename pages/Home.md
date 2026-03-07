@@ -1,10 +1,5 @@
-- #+BEGIN_CENTER
-  [[Tags]] | [[Status]]
-  #+END_CENTER
 - Welcome to my small notebook. :)
--
-- # Categories
+- **Categories**
 	- [[API Docs]]
-- # Quick Notes
+- **Quick Notes**
 	- [[OS Tier List]]
--
