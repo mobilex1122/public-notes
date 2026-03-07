@@ -7,7 +7,7 @@ type:: Quick Note
 	- Can play most of my games
 	- Let's me develop without much of a hassle
 - # List
-	- # 1. Linux Mint
+	- ## 1. Linux Mint
 		- My main OS at the moment.
 		- Mint provides very smooth experience to and fulfills my needs. I can all of my games, write Code and take notes with minimal issues.
 	- ## 2. Arch Linux
