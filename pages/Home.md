@@ -1,5 +1,6 @@
 - Welcome to my small notebook. :)
-- **Categories**
+- [[Tags]] | [[Status]]
+- ### Categories
 	- [[API Docs]]
-- **Quick Notes**
+- ### Quick Notes
 	- [[OS Tier List]]
