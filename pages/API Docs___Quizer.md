@@ -1,8 +1,8 @@
-- #+BEGIN_NOTE
-  This is still Work in Progress
-  #+END_NOTE
+icon:: ✅
+tags:: API, Open-Source
+status:: [[In Development]]
+
 - **Sub pages:**
-  collapsed:: true
 	- [JSON Models]([[API Docs/Quizer/JSON Models]])
 - **INFO**
   collapsed:: true
@@ -10,7 +10,6 @@
 	- **Apps + Source**
 		- [Quizer Editor](https://apps.projnull.eu/quizer/) - NO SOURCE YET
 - **Types**
-  id:: 69abee20-2483-458d-b929-06fe9282a868
   collapsed:: true
 	- `:code`: `AAAA-AAAA` - Small Invite code
 	- `:id`: `<Numeric ID>` - Incremental ID usualy used inside the JSON
