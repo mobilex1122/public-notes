@@ -1,0 +1,57 @@
+/* Jan Palma CC-BY-NC 4.0 */
+html {
+    --pb-base-100: #f0f1e0;
+    --pb-base-200: #DEDFD0;
+    --pb-base-300: #CBCBBF;
+    --pb-base-400: #B8B6AD;
+    --pb-base-500: #A09B94;
+    --pb-base-600: #706F67;
+    --pb-base-700: #595953;
+    --pb-base-800: #42423F;
+    --pb-base-900: #252523;
+    --pb-base-950: #0D0D0D;
+
+    --pb-blue-100: #f0f1e0;
+    --pb-blue-200: #B0E5FF;
+    --pb-blue-300: #95D5F5;
+    --pb-blue-400: #6FD1F6;
+    --pb-blue-500: #40B8F4;
+    --pb-blue-600: #118AC6;
+    --pb-blue-700: #116D9B;
+    --pb-blue-800: #0B5276;
+    --pb-blue-900: #08243F;
+    --pb-blue-950: #020D17;
+
+    --pb-red-100: #F8C4C4;
+    --pb-red-200: #FAB5B5;
+    --pb-red-300: #F69494;
+    --pb-red-400: #F47171;
+    --pb-red-500: #EF4545;
+    --pb-red-600: #C41313;
+    --pb-red-700: #9E0E0E;
+    --pb-red-800: #730E0E;
+    --pb-red-900: #400707;
+    --pb-red-950: #170202;
+
+    --pb-pink-100: #F8C4F3;
+    --pb-pink-200: #FAB5F3;
+    --pb-pink-300: #F694EC;
+    --pb-pink-400: #F471E7;
+    --pb-pink-500: #EF45DE;
+    --pb-pink-600: #C413B2;
+    --pb-pink-700: #9E0E90;
+    --pb-pink-800: #730E69;
+    --pb-pink-900: #40073B;
+    --pb-pink-950: #170215;
+
+    --pb-green-100: #C4F8C8;
+    --pb-green-200: #B5FABB;
+    --pb-green-300: #94F69C;
+    --pb-green-400: #71F47C;
+    --pb-green-500: #45EF53;
+    --pb-green-600: #13C422;
+    --pb-green-700: #0E9E1A;
+    --pb-green-800: #0E7316;
+    --pb-green-900: #07400C;
+    --pb-green-950: #021704;
+}
