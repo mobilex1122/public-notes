@@ -5,4 +5,4 @@
 - ## Versions
 	- [V2]([[PB Naturalist/V2]])
 	- ~~V1~~ (Internal development version)
--
+- [Download (kDrive)](https://kdrive.infomaniak.com/app/share/2444210/97f1c453-350a-4b07-8292-4bd232f9781c/files/5728)

@@ -1,6 +1,4 @@
 - ![pb-naturalist-2.png](../assets/pb-naturalist-2_1773343895082_0.png){:height 534, :width 778}
 - ((69b31503-5532-4f52-8fa6-5b4e3a48a9e0))
 -
-- ## Files
-	- [pb-naturalist-2.css](../assets/pb-naturalist-2_1773345530396_0.css)
--
+- [Download (kDrive)](https://kdrive.infomaniak.com/app/share/2444210/97f1c453-350a-4b07-8292-4bd232f9781c/files/5729)
