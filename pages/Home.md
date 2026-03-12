@@ -4,5 +4,6 @@ icon:: 🏠️
 - [[Tags]] | [[Status]]
 - ### Categories
 	- [[API Docs]]
+	- [[Palettes]]
 - ### Quick Notes
 	- [[OS Tier List]]
