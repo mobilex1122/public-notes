@@ -2,5 +2,5 @@ icon:: ⚙️
 
 - query-properties:: [:page]
   #+BEGIN_QUERY
-  {:title "Tag List" :query (all-page-tags)}
+  {:title "All Tags" :query (all-page-tags) :view :links-flex}
   #+END_QUERY
