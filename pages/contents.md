@@ -2,5 +2,7 @@
 - ### Categories
 	- [[API Docs]]
 	- [[Palettes]]
+- ## Projects
+	- [[Jan's Auto Group]]
 - ### Quick Notes
 	- [[OS Tier List]]
